@@ -1,0 +1,41 @@
+@ARTICLE {certeb,
+    author  = "Lucas Amparo Barbosa, Pablo Feire Matos, Djan Almeida Santos",
+    title   = "CERTEB: SISTEMA DE EMISSÃO DE CERTIFICADO ONLINE",
+    journal = "Anais do VIII Congresso Norte-Nordeste de Pesquisa e Inovação - CONNEPI",
+    year    = "2013",
+    number  = "8",
+    month   = "nov"
+}
+
+@ARTICLE {ifbuy,
+    author  = "Lucas Amparo Barbosa, Aline Silva Costa, Djan Almeida Santos,   Eber Chagas Santos, Lucas Fernandes de Melo",
+    title   = "IFBuy: Um Sistema de Processos de Compras Em Uma Perspectiva Interdisciplinar",
+    journal = "Anais da Semana de Ciência e Tecnologia - SECITEC",
+    year    = "2014",
+    month   = "oct"
+}
+
+@MISC {imestre,
+    author = "Lucas Amparo Barbosa",
+    title  = "iMestre: Sistema Web de Auxílio a Professores",
+    month  = "nov",
+    year   = "2015",
+    note   = "Monografia (Bacharelado em Sistemas de Informação), Instituto Federal de Educação Ciência e Tecnologia da Bahia (IFBA). Vitória da Conquista, Bahia. Brasil."
+}
+
+@MASTERSTHESIS {expressionremoval,
+    author = "Lucas Amparo Barbosa",
+    title  = "Remoção de expressões faciais em imagens 3D para fins de reconhecimento biométrico",
+    school = "Universidade Federal da Bahia",
+    year   = "2018",
+    type   = "Dissertação",
+    month  = "oct"
+}
+
+@ARTICLE {eventbr,
+    author  = "Luis Paulo da Silva Carvalho, Moara Sousa Brito, Pablo Freire Matos, Lucas Amparo Barbosa, Cremildo Lima Gomes, Ivick Roberta Leite Ferreira",
+    title   = "e-Vent-Br: Proposta de um Sistema Web de Gerenciamento de Eventos Acadêmicos",
+    journal = "Anais do Workshop de Software Livre Bahia-Alagoas-Sergipe (FREEBASE)",
+    year    = "2014",
+    month   = "may"
+}
