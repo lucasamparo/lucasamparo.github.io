@@ -1,3 +1,11 @@
+@ARTICLE {jiro,
+    author  = "Lucas Cruz da Silva, Leone da Silva de Jesus, Lucas Amparo Barbosa, Iago Souza Borges, Camila Silva Cavalcante Lima, Diego Russo Juliano, Rômulo Guedes Cerqueira",
+    title   = "JIRO: Joint Inspection Robot",
+    journal = "Rio Oil & Gas 2020",
+    year    = "2020",
+    month   = "dec"
+}
+
 @ARTICLE {certeb,
     author  = "Lucas Amparo Barbosa, Pablo Feire Matos, Djan Almeida Santos",
     title   = "CERTEB: SISTEMA DE EMISSÃO DE CERTIFICADO ONLINE",
