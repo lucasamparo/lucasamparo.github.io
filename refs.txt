@@ -6,7 +6,7 @@
     month   = "dec"
 }
 
-@ARTICLE {certeb,
+@INPROCEEDINGS {certeb,
     author  = "Lucas Amparo Barbosa, Pablo Feire Matos, Djan Almeida Santos",
     title   = "CERTEB: SISTEMA DE EMISSÃO DE CERTIFICADO ONLINE",
     journal = "Anais do VIII Congresso Norte-Nordeste de Pesquisa e Inovação - CONNEPI",
@@ -15,7 +15,7 @@
     month   = "nov"
 }
 
-@ARTICLE {ifbuy,
+@INPROCEEDINGS {ifbuy,
     author  = "Lucas Amparo Barbosa, Aline Silva Costa, Djan Almeida Santos,   Eber Chagas Santos, Lucas Fernandes de Melo",
     title   = "IFBuy: Um Sistema de Processos de Compras Em Uma Perspectiva Interdisciplinar",
     journal = "Anais da Semana de Ciência e Tecnologia - SECITEC",
@@ -40,10 +40,22 @@
     month  = "oct"
 }
 
-@ARTICLE {eventbr,
+@INPROCEEDINGS {eventbr,
     author  = "Luis Paulo da Silva Carvalho, Moara Sousa Brito, Pablo Freire Matos, Lucas Amparo Barbosa, Cremildo Lima Gomes, Ivick Roberta Leite Ferreira",
     title   = "e-Vent-Br: Proposta de um Sistema Web de Gerenciamento de Eventos Acadêmicos",
     journal = "Anais do Workshop de Software Livre Bahia-Alagoas-Sergipe (FREEBASE)",
     year    = "2014",
     month   = "may"
 }
+
+@INPROCEEDINGS {expremovalieee,
+  author={L. {Amparo Barbosa} and G. {Dahia} and M. {Pamplona Segundo}},
+  booktitle={2019 8th Brazilian Conference on Intelligent Systems (BRACIS)}, 
+  title={Expression Removal in 3D Faces for Recognition Purposes}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={753-758},
+  doi={10.1109/BRACIS.2019.00135}
+}
+
