@@ -1,3 +1,21 @@
+@INPROCEEDINGS{jiro_reconstruction,
+  author={Barbosa, Lucas A. and De Jesus, Leone Da S. and Silva, Eberty A. Da and Silva, Lucas C. Da and Cerqueira, Rômulo},
+  booktitle={OCEANS 2021: San Diego – Porto}, 
+  title={Fully automatic 3D reconstruction applied to underwater flexible joint inspection}, 
+  year={2021},
+  pages={1-7},
+  doi={10.23919/OCEANS44145.2021.9705736}
+}
+
+@INPROCEEDINGS{jiro_photomosaic,
+  author={Jesus, Leone and Da Silva, Eberty A. and Barbosa, Lucas A. and Da Silva, Lucas C. and Cerqueira, Rômulo},
+  booktitle={OCEANS 2021: San Diego – Porto},
+  title={A robust image stitching approach for underwater flexible joint inspection},
+  year={2021},
+  pages={1-8},
+  doi={10.23919/OCEANS44145.2021.9705802}
+}
+
 @ARTICLE {jiro,
     author  = "Lucas Cruz da Silva, Leone da Silva de Jesus, Lucas Amparo Barbosa, Iago Souza Borges, Camila Silva Cavalcante Lima, Diego Russo Juliano, Rômulo Guedes Cerqueira",
     title   = "JIRO: Joint Inspection Robot",
