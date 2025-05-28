@@ -92,3 +92,17 @@
   pages = {161}
 }
 
+@inproceedings{Menezes2024,
+  series = {LAAI-Ethics},
+  title = {Racismo Algorítmico: Uma discussão fundamentada},
+  url = {http://dx.doi.org/10.5753/laai-ethics.2024.32439},
+  DOI = {10.5753/laai-ethics.2024.32439},
+  booktitle = {Anais da I Confer\^encia Latino-Americana de Ética em Intelig\^encia Artificial (LAAI-Ethics 2024)},
+  publisher = {Sociedade Brasileira de Computa\c{c}ão - SBC},
+  author = {Menezes,  Pedro M. O. and Barbosa,  Lucas A.},
+  year = {2024},
+  month = nov,
+  pages = {9–12},
+  collection = {LAAI-Ethics}
+}
+
