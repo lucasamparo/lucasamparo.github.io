@@ -77,3 +77,18 @@
   doi={10.1109/BRACIS.2019.00135}
 }
 
+@article{Barbosa2025,
+  title = {From Physically Based to Generative Models: A Survey on Underwater Image Synthesis Techniques},
+  volume = {11},
+  ISSN = {2313-433X},
+  url = {http://dx.doi.org/10.3390/jimaging11050161},
+  DOI = {10.3390/jimaging11050161},
+  number = {5},
+  journal = {Journal of Imaging},
+  publisher = {MDPI AG},
+  author = {Barbosa,  Lucas Amparo and Apolinario,  Antonio Lopes},
+  year = {2025},
+  month = may,
+  pages = {161}
+}
+
